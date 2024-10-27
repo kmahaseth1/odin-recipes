@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+}
+
+.img-description {
+    font-weight: 300;
+    font-family: "Times New Roman", Georgia, Helvetica;
+    font-size: 15px;
+    color: grey;
+}
